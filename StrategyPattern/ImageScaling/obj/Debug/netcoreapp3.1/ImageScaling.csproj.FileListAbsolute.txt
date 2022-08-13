@@ -1,0 +1,96 @@
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.exe
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.dll
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.exe
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.dll
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Çalımaoop\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.exe
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.dll
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\bin\Debug\netcoreapp3.1\ImageScaling.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.dll
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\StrategyPattern\ImageScaling\obj\Debug\netcoreapp3.1\ImageScaling.genruntimeconfig.cache

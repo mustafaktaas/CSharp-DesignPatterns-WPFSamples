@@ -1,0 +1,72 @@
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.exe
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\PerMonitorDPI\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project1-MustafaAktaş-180101050\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.exe
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.dll
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\bin\Debug\netcoreapp3.1\TextFormatting.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.dll
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Ders\2. Sınıf 1.Dönem\Object Oriented\Project1-MustafaAktaş-180101050\PerMonıtorDPI\Observer Pattern\TextFormatting\obj\Debug\netcoreapp3.1\TextFormatting.genruntimeconfig.cache
