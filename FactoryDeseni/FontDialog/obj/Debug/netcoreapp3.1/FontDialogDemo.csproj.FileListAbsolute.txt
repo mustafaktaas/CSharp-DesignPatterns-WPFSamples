@@ -1,0 +1,62 @@
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.exe
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialog.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontChooser.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontChooser.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialog_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialog_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialog.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialog.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialog.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialog.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.csproj.CopyComplete
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\FontDialog.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialog.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontChooser.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontChooser.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialog_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialog_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialog.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialog.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.csproj.CopyComplete
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialog.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialog.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FactoryDeseni\FontDialog\obj\Debug\netcoreapp3.1\FontDialogDemo.genruntimeconfig.cache

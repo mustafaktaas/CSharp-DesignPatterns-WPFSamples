@@ -1,0 +1,72 @@
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.exe
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\BooleanAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\ColorAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\DoubleAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\InterpolationMethodsExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFramesIntroduction.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeytimesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\PointAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\RectAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\SampleViewer.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\StringAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\ThicknessAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\DoubleAnimationUsingKeyFramesExample.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFramesIntroduction.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\SampleViewer.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\BooleanAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\DoubleAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\InterpolationMethodsExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFramesIntroduction.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeytimesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\PointAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\RectAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\SampleViewer.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\StringAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\ThicknessAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\DoubleAnimationUsingKeyFramesExample.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFramesIntroduction.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\SampleViewer.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\bin\Debug\netcoreapp3.1\KeyFrameAnimation.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\ColorAnimationUsingKeyFramesExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\State Deseni\KeyFrameAnimation\obj\Debug\netcoreapp3.1\KeyFrameAnimation.genruntimeconfig.cache

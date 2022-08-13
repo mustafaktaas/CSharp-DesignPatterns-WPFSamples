@@ -1,0 +1,47 @@
+﻿<Window x:Class="ParticlesDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ParticlesDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="374" Width="672">
+    <Grid Background="Black">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="107*"/>
+            <ColumnDefinition Width="37*"/>
+            <ColumnDefinition Width="173*"/>
+            <ColumnDefinition Width="68*"/>
+            <ColumnDefinition Width="287*"/>
+        </Grid.ColumnDefinitions>
+        <Viewport3D Name="World" Grid.ColumnSpan="5">
+            <Viewport3D.Camera>
+                <OrthographicCamera Position="0,0,32" LookDirection="0,0,-32" UpDirection="0,1,0" Width="128" />
+            </Viewport3D.Camera>
+
+            <Viewport3D.Children>
+                <ModelVisual3D>
+                    <ModelVisual3D.Content>
+                        <Model3DGroup x:Name="WorldModels">
+                            <AmbientLight Color="#FFFFFFFF" />
+                        </Model3DGroup>
+                    </ModelVisual3D.Content>
+                </ModelVisual3D>
+            </Viewport3D.Children>
+        </Viewport3D>
+        <DockPanel Background="#01000000" Grid.ColumnSpan="5">
+            <Label Visibility="Visible" Name="FrameRateLabel" DockPanel.Dock="Top" Foreground="Yellow" Width="523" Height="336" RenderTransformOrigin="0.5,0.5" >
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="0.001"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+                <StackPanel/>
+            </Label>
+        </DockPanel>
+        <Button x:Name="singleton" Content="Singleton" Grid.Column="4" HorizontalAlignment="Left" Margin="241,0,0,0" VerticalAlignment="Top" Click="singleton_Click"/>
+    </Grid>
+</Window>

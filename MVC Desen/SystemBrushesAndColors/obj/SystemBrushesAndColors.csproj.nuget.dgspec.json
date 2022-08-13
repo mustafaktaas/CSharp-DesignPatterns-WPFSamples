@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hawak\\OneDrive\\Masaüstü\\WPF-Samples-master\\WPF-Samples-master\\Graphics\\SystemBrushesAndColors\\SystemBrushesAndColors.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hawak\\OneDrive\\Masaüstü\\WPF-Samples-master\\WPF-Samples-master\\Graphics\\SystemBrushesAndColors\\SystemBrushesAndColors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hawak\\OneDrive\\Masaüstü\\WPF-Samples-master\\WPF-Samples-master\\Graphics\\SystemBrushesAndColors\\SystemBrushesAndColors.csproj",
+        "projectName": "SystemBrushesAndColors",
+        "projectPath": "C:\\Users\\hawak\\OneDrive\\Masaüstü\\WPF-Samples-master\\WPF-Samples-master\\Graphics\\SystemBrushesAndColors\\SystemBrushesAndColors.csproj",
+        "packagesPath": "C:\\Users\\hawak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hawak\\OneDrive\\Masaüstü\\WPF-Samples-master\\WPF-Samples-master\\Graphics\\SystemBrushesAndColors\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hawak\\OneDrive\\Masaüstü\\WPF-Samples-master\\WPF-Samples-master\\NuGet.Config",
+          "C:\\Users\\hawak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-corefxlab/api/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-coreclr/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-tools-internal/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet5/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.exe
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\bin\Debug\netcoreapp3.1\LayoutTransitionsDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\FaçadeDeseni\LayoutTransitionsDemo\obj\Debug\netcoreapp3.1\LayoutTransitionsDemo.genruntimeconfig.cache

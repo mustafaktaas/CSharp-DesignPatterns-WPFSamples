@@ -1,0 +1,68 @@
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\mydata\blue hills.jpg
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\mydata\sunset.jpg
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\mydata\water lilies.jpg
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\mydata\winter.jpg
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\ImageView.exe
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\ImageView.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\ImageView.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\ImageView.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\ImageView.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\ImageView.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\bin\Debug\netcoreapp3.1\ImageView.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView_Content.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Graphics\ImageView\obj\Debug\netcoreapp3.1\ImageView.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\mydata\blue hills.jpg
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\mydata\sunset.jpg
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\mydata\water lilies.jpg
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\mydata\winter.jpg
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\ImageView.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\ImageView.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\ImageView.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\ImageView.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\ImageView.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\ImageView.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\ImageView.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\bin\Debug\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView_Content.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.csproj.CopyComplete
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\ImageView\obj\Debug\netcoreapp3.1\ImageView.genruntimeconfig.cache

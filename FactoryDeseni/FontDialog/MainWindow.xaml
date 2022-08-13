@@ -1,0 +1,25 @@
+﻿<Window x:Class="FontDialog.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FontDialog"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel>
+        <ToolBar DockPanel.Dock="Top">
+            <Button Content="Font" Click="OnFontButtonClick" />
+            <Button Content="Century Gothic" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Button_Click"/>
+            <Button Content="Font Size" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Button_Click_1"/>
+            <Button Content="BColor" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Button_Click_2"/>
+        </ToolBar>
+        <TextBox
+            AcceptsReturn="True"
+            TextWrapping="WrapWithOverflow"
+            FontFamily="Palatino Linotype"
+            FontSize="16"
+            x:Name="textBox" TextChanged="textBox_TextChanged">
+            The quick brown fox jumps over the lazy dog
+        </TextBox>
+    </DockPanel>
+</Window>

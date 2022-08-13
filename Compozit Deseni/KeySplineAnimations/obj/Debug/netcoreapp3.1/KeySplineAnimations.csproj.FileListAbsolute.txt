@@ -1,0 +1,72 @@
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\berries.jpg
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\branches.png
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\leafpicturecube2r000003.png
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\leafpicturecube2r000005.png
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\leaves_closeup.png
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\rippled_metal_smaller.png
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\rocks.jpg
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\rocks.png
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\sunset.jpg
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\waterlilies.jpg
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\waterlilies.png
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.exe
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\SplineExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\SplineExample.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations_Content.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\WPF-Samples-master\Animation\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\berries.jpg
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\branches.png
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\leafpicturecube2r000003.png
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\leafpicturecube2r000005.png
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\leaves_closeup.png
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\rippled_metal_smaller.png
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\rocks.jpg
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\rocks.png
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\sunset.jpg
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\waterlilies.jpg
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\sample_images\waterlilies.png
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\bin\Debug\netcoreapp3.1\KeySplineAnimations.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\SplineExample.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\SplineExample.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations_Content.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-3-MustafaAktaş--180101050\Compozit Deseni\KeySplineAnimations\obj\Debug\netcoreapp3.1\KeySplineAnimations.genruntimeconfig.cache

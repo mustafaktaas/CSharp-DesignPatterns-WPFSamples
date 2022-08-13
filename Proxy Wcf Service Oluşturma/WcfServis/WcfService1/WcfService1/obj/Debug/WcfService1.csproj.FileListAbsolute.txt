@@ -1,0 +1,14 @@
+C:\Users\hawak\OneDrive\Masaüstü\WcfServis\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WcfServis\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\hawak\OneDrive\Masaüstü\WcfServis\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WcfServis\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\WcfServis\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WcfServis\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\hawak\OneDrive\Masaüstü\WcfServis\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\WcfServis\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\WcfServis\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\WcfServis\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\WcfServis\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\WcfServis\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\WcfServis\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-4-MustafaAktaş--180101050\Proxy Wcf Service Oluşturma\WcfServis\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

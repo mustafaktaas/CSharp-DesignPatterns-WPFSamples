@@ -1,0 +1,48 @@
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.exe
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\bin\Debug\netcoreapp3.1\CalculatorDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\CalculatorDemo\obj\Debug\netcoreapp3.1\CalculatorDemo.genruntimeconfig.cache

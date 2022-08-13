@@ -1,0 +1,48 @@
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.exe
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\bin\Debug\netcoreapp3.1\GeometryDesignerDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\CommandDeseni\GeometryDesignerDemo\obj\Debug\netcoreapp3.1\GeometryDesignerDemo.genruntimeconfig.cache

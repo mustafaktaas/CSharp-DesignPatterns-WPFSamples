@@ -1,0 +1,68 @@
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.exe
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\WPF-Samples-master\Sample Applications\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.genruntimeconfig.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.exe
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.deps.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.runtimeconfig.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.runtimeconfig.dev.json
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\bin\Debug\netcoreapp3.1\ParticlesDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.csprojAssemblyReference.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.dll.config
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo_MarkupCompile.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo_MarkupCompile.lref
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.g.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.Properties.Resources.resources
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.csproj.GenerateResource.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.AssemblyInfoInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.AssemblyInfo.cs
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.csproj.CoreCompileInputs.cache
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.dll
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.pdb
+C:\Users\hawak\OneDrive\Masaüstü\Project-2-MustafaAktaş--180101050\SingletonDeseni\ParticlesDemo\obj\Debug\netcoreapp3.1\ParticlesDemo.genruntimeconfig.cache
